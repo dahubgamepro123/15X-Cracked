@@ -1,0 +1,1 @@
+# so this crack is for educational purposes (they were so being annoying) and they skidded whole FPS GUI, Stefanuk12's open source Silent Aimbot yeah thats all (their whitelist is simple UserID check) which can be bypassed with changing UserId property of LocalPlayer game:GetService('Players').LocalPlayer.UserId = tonumber(a_whitelisted_id)
